@@ -1,3 +1,3 @@
 Machine_Learning
-Exercise pattern prediction with machine learning 
+Exercise pattern prediction with machine learning
 
